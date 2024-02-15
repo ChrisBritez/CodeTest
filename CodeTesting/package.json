@@ -1,0 +1,22 @@
+{
+  "name": "testingcode",
+  "version": "1.0.0",
+  "description": "for testing code",
+  "main": "helloworld.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "mocha": "^9.2.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Chris",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "jest": "^29.7.0"
+  }
+}
